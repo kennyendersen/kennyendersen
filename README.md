@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Kenny Endersen, seja bem vindo ao meu perfil
 
 - 🔭 Iniciando na área da programação
-- 💻 Conhecimentos básico em Js e PHP
+- 💻 Conhecimentos básicos em Js e PHP
 - 💻 Conhecimentos intermédiarios em HTML5 e CSS3
 - 🌱 Estou fazendo Graduação em Análise e Desenvolvimento de Sistemas
 - 😄 Pronouns: ele/dele
@@ -22,6 +22,7 @@
   <a href = "mailto:kennyendersen.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+##
 
 <a href="https://github.com/kennyendersen">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennyendersen&layout=compact&langs_count=8&card_width=320&theme=dracula" />
