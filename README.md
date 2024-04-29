@@ -3,7 +3,7 @@
 - 🔭 Iniciando na área da programação
 - 💻 Conhecimentos básico em Js e PHP
 - 💻 Conhecimentos intermédiarios em HTML5 e CSS3
-- 🌱 Estou estudando JavaScript e PHP
+- 🌱 Estou fazendo Graduação em Análise e Desenvolvimento de Sistemas
 - 😄 Pronouns: ele/dele
 
 <div style="display: inline_block"><br>
@@ -23,6 +23,6 @@
 </div>
 
 
-<a href="https://github.com/kennyendersen/convoychat">
+<a href="https://github.com/kennyendersen">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennyendersen&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
