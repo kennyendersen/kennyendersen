@@ -23,6 +23,6 @@
 
 ##
 
-<a href="https://beacons.ai/kennyendersen" target="_blank">
+<a href="https://instagram.com/kennyxts" target="_blank">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennyendersen&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
