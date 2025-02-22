@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Kenny Endersen, seja bem vindo ao meu perfil
 
 - 🔭 Iniciando na área da programação
-- 💻 Conhecimentos básicos em Js, PHP e Python
+- 💻 Conhecimentos básicos em Java, PHP e Python
 - 💻 Conhecimentos intermédiarios em HTML5 e CSS3
-- 🌱 Estou cursando 2º Período em Análise e Desenvolvimento de Sistemas
+- 🌱 Estou cursando 3º Período em Análise e Desenvolvimento de Sistemas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kenny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
